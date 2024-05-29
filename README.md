@@ -1,2 +1,2 @@
 # NetwokABMPy
-AGents moveing about a network
+Agents moveing about a network
